@@ -1,4 +1,4 @@
-# 🏠 Sydney Housing Price Prediction and Decision Support System
+# 🏠 Sydney Housing Price Prediction 
 
 **SIT720 Machine Learning — Distinction Task (Mini Project)**
 
@@ -69,6 +69,5 @@ The app takes suburb, property type, bedrooms, bathrooms, car spaces, building s
 
 ## ⚠️ Limitations
 
-- Land size and distance-to-CBD/station were not consistently available and are excluded as features
 - Dataset only captures *sold* properties (survivorship bias)
 - Small sample size (32–35 per suburb) limits generalisability
